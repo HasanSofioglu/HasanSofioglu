@@ -2,9 +2,9 @@
 I am a recent graduate from the Software Engineering department at Celal Bayar University with high honors. During my academic years, I had the opportunity to win an Erasmus scholarship and move to Germany for a fully-funded internship abroad at an international company. Following my internship, I decided to stay in Germany to continue working and to learn German for my Master's degree, as I aspire to deepen my knowledge in the field of software engineering. Currently, my German proficiency level is at B1.1.<br><br>As a software engineer, I believe in being disciplined, algorithmic, and most importantly, always open to learning. I enjoy conducting research and constantly expanding my knowledge in the field. With software development, there is always something new to learn, so I never assume that I know everything. I approach every task with a high level of focus and dedication, treating each project as if it were my own. Regardless of whether the task is assigned to me or not, I take full responsibility and ownership in completing it to the best of my abilities.
 
 # Languages
-* Turkhis Native or bilingual proficiency
-* English - Professional working proficiency - C1
-* German - Limited working proficiency - B1.1
+* **Turkhis** - Native or bilingual proficiency
+* **English** - Professional working proficiency - **C1**
+* **German** - Limited working proficiency - **B1.1**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheSophie#5344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsnsofioglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasansofioglu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheSophieSon) 
