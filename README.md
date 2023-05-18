@@ -4,7 +4,7 @@ I am a recent graduate from the Software Engineering department at Celal Bayar U
 # Languages
 * **Turkhis** - Native or bilingual proficiency
 * **English** - Professional working proficiency - **C1**
-* **German** - Limited working proficiency - **B1.1**
+* **German** - Limited working proficiency - **B1.2**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheSophie#5344) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsnsofioglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasansofioglu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheSophieSon) 
